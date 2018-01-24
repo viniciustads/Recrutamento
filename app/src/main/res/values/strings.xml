@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Recrutando</string>
+    <string name="my_name">Vinicius Venancio DAbadia</string>
+    <string name="esquecisenha">Esqueci minha senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="registrese">Registre-se</string>
+    <string name="title_activity_confirmacao">activity_confirmacao</string>
+
+</resources>
